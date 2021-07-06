@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+h1{
+    color: white;
+}
+h3{
+    color: white;
+}
+.s10{
+    width: 500px;
+    height: 1000px;
+}
+img{
+    margin-left: 25px;
+    margin-right: 25px;
+    transition: transfrom .2s;
+    border: 10px solid #ffffff;
+}
+img:hover{
+    transform: scale(0.9);
+}
+.line {
+    height: 6px;
+    background-color: white;
+    width: 1500px;
+    margin: 8px auto;
+}
